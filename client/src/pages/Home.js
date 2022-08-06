@@ -11,7 +11,7 @@ export default function Home() {
             <div className='md:grid md:grid-cols-2 items-center'>
                 <div className=''>
                     <h1 className='text-3xl md:text-6xl'>Who we are</h1>
-                    <p className='text-xl md:text-2xl py-4 tracking-wider text-justify'>About the app</p>
+                    <p className='text-xl md:text-2xl py-4 tracking-wider text-justify'>Wild life SOS where users can learn how to help the animals with just one click. On our website, you can donate money using Coil to support animal rescue and adoption. On Wild life SOS you can identify the animal and their injury and it will tell you what you should do and should not to help the distressed animals.</p>
 
                     <Link to="/treatment">
                         <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl'>Animal Treatment</button>
@@ -34,8 +34,8 @@ export default function Home() {
                     <ul className="text-2xl">
                         <li className="list-disc">Know the species of animal.</li>
                         <li className="list-disc">Donate to the cause of animal.</li>
-                        <li className="list-disc">Add maker on the map where animal rescure in required.</li>
-                        <li className="list-disc">Get information about the tratment in any animal injury.</li>
+                        <li className="list-disc">First aid required for the animals.</li>
+                        <li className="list-disc">Get information about the tratment for any injured animal.</li>
                     </ul>
                 </div>
             </div>
