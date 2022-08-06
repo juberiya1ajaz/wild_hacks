@@ -1,14 +1,19 @@
+# Wild life SOS
 
 ## 💡 Inspiration
+
 We all have heard about bushfires that happened in Australia a year ago. According to news sources, more than 60k koalas were killed or hurt in the 2020 bushfire alone. The worst losses were on Kangaroo Island in South Australia, where the conservation group estimates more than 41,000 koalas were killed or harmed by the ferocious fires.
+
 Casualties like these happen every year. Many times people even don't know how to help animals and there is a slight possibility that they might give something wrong to the animal in distress. Every animal has different needs and we should try to cater to that.
 To solve this problem we came up with **Wild life SOS** where users can learn how to help the animals with just one click. On our website, you can donate money using Coil to support animal rescue and adoption. On **Wild life SOS** you can identify the animal and their injury and it will tell you what you should do and should not to help the distressed animals. This application was inspired by animals and all humane people worldwide who were unable to help animals because of a lack of knowledge.
 
 ## 💻 What it does
-- Donation for animal rescue and adoption with the help of coil.
+
 - Identifying the animals
 - Identifying the degree of injury and distress.
 - First aid required for these animals.
+- Donation for animal rescue and adoption with the help of coil.
+
 ## ⚙️ How we built it
 
 - ML: Python, MATLAB
