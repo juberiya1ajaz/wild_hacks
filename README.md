@@ -33,6 +33,8 @@ We used MATLAB to build the image classification model. The model was trained on
 - We used the MATLAB `neural network toolbox` to train the model.
 - We used the MATLAB `statistics toolbox` to evaluate the model.
 
+EDIT: Find the MATLAB files used [here](https://github.com/juberiya1ajaz/wild_hacks/tree/ml/ML).
+
 ## 🧠 Challenges we ran into
 
 - Using MATLAB to build the model was a challenge.
